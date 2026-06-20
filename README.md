@@ -25,13 +25,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript&logoColor=3178C6)
 ### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FF2D20)
 
 ### My Projects
 
