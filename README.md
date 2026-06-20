@@ -1,5 +1,4 @@
-<h1 align="center">
-<br/>    
+<h1 align="center">   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans&weight=500&size=32&pause=1000&center=true&width=435&height=85&lines=Hey+there!;I'm+Jamal" alt="Typing SVG" /></a>
 </h1>
 
