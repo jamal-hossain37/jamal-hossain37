@@ -41,17 +41,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python            22 hrs 10 mins ████████████████░░░░  69.69 %  // Weaving Pythonic spells with serpentine agility.
-Cyber Security    5 hrs 30 mins  ████░░░░░░░░░░░░░░░░  17.31 %  // Casting protective wards in the realm of cybersecurity.
-JavaScript        2 hrs 15 mins  ██░░░░░░░░░░░░░░░░░░  07.09 %  // Summoning asynchronous incantations in JavaScript.
-Machine Learning  2 hrs 5 mins   ██░░░░░░░░░░░░░░░░░░  06.59 %  // Empowering neural networks with arcane ML algorithms.
+Python            22 hrs 10 mins ████████████████░░░░  57.95%  // Weaving Pythonic spells with serpentine agility.
+Machine Learning  5 hrs 30 mins  ████░░░░░░░░░░░░░░░░  14.38% // Empowering neural networks with arcane ML algorithms.
+Computer Vision   5 hrs 15 mins  ████░░░░░░░░░░░░░░░░  13.73% // Empowering Medical Imaging with DL algorithms.
+Cybersecurity     3 hrs 15 mins  ██░░░░░░░░░░░░░░░░░░  08.50% // Casting protective wards in the realm of cybersecurity.
+JavaScript        2 hrs 5 mins   ██░░░░░░░░░░░░░░░░░░  05.45%  // Summoning asynchronous incantations in JavaScript.
 ```
 
 
 <!--END_SECTION:waka-->
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/jamal-hossain37">
+<a href="[https://github.com/jamal-hossain37](https://github.com/jamal-hossain37)">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamal-hossain37&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamal-hossain37&layout=compact&langs_count=8&theme=algolia"/>
 </a>
