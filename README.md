@@ -33,6 +33,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FF2D20)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)
+![Colab](https://img.shields.io/badge/-Google%20Colab-000?logo=google-colab&logoColor=F9AB00)
 
 ### My Projects
 
