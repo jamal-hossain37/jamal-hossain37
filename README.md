@@ -8,22 +8,22 @@
 👀  &nbsp;I’m interested in Machine Learning, Computer Vision, Cybersecurity, Healthcare AI, and Web Development.  
 🌱  &nbsp;I'm currently exploring Explainable AI, Federated Learning, and Deep Learning for Medical Imaging.  
 💬  &nbsp;I'm looking to collaborate on AI/ML research projects, and publications.  
-✉️  &nbsp;How to reach me: jamal37.ru.cse@gmail.com
+✉️  &nbsp;How to reach me: jamal37.ru.cse@gmail.com .
 <!--📄 &nbsp;Check out my portfolio website at -->
 
 <img align="right" alt="GIF" src="https://github.com/jamal-hossain37/jamal-hossain37/raw/main/code.gif" width="500" height="320" />
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-000?logo=Python)
-![C](https://img.shields.io/badge/-C-000?logo=C)
-![C++](https://img.shields.io/badge/-C++-000?logo=C%2B%2B)
+![Python](https://img.shields.io/badge/-Python-000?logo=Python&logoColor=3776AB)
+![C](https://img.shields.io/badge/-C-000?logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-000?logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000?logo=Java&logoColor=007396)
-![CSharp](https://img.shields.io/badge/-C%23-000?logo=c-sharp&logoColor=239120)
+![C#](https://img.shields.io/badge/-C%23-000?logo=csharp&logoColor=239120)
 ![PHP](https://img.shields.io/badge/-PHP-000?logo=PHP&logoColor=777BB4)
 ![Dart](https://img.shields.io/badge/-Dart-000?logo=Dart&logoColor=0175C2)
-![SQL](https://img.shields.io/badge/-SQL-000?logo=MySQL)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?logo=MySQL&logoColor=4479A1)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript&logoColor=3178C6)
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
