@@ -16,7 +16,7 @@
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?logo=Python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/-C-000?logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-000?logo=C%2B%2B&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C%2B%2B-000?logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000?logo=Java&logoColor=007396)
 ![C#](https://img.shields.io/badge/-C%23-000?logo=csharp&logoColor=239120)
 ![PHP](https://img.shields.io/badge/-PHP-000?logo=PHP&logoColor=777BB4)
