@@ -38,6 +38,7 @@
 ### My Projects
 
 [![](https://img.shields.io/badge/-📅%20Leave%20Management-000)](https://github.com/jamal-hossain37/Software_Engineering)
+[![](https://img.shields.io/badge/-🌤%20Weather%20App-000)](https://github.com/jamal-hossain37/Weather_App)
 
 
 ### ⏳ Chronicles of my week as a digital mage
