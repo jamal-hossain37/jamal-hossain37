@@ -5,7 +5,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-### 👨🏻‍💻 About Me
 👀  &nbsp;I’m interested in Machine Learning, Computer Vision, Cybersecurity, Healthcare AI, and Web Development.  
 🌱  &nbsp;I'm currently exploring Explainable AI, Federated Learning, and Deep Learning for Medical Imaging.  
 💬  &nbsp;I'm looking to collaborate on AI/ML research projects, publications, and web-based research applications.  
