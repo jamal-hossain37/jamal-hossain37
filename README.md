@@ -3,65 +3,71 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans&weight=500&size=32&pause=1000&center=true&width=435&height=85&lines=Hello+There...;I'm+Jamal+Hossain" alt="Typing SVG" /></a>
 </h1>
 
-### I'm very passionate about Programming & love to Solve Problems. Hopefully, you’ll find something useful here. Thank you for stopping by and happy exploring...
+### 👨🏻‍💻 &nbsp;About Me
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahnafshahrear&label=%20View%20Count%20&color=0e75b6&style=flat-square" alt="ahnafshahrear" height=32 /> </p>
+🎓 &nbsp;I’m currently doing my MS in Computer Science at George Mason University. \
+👀 &nbsp;I’m interested in Machine learning, Cyber Security, and Web Development. \
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Cloud Architecture.\
+💬 &nbsp;I'm looking to collaborate on AIML Research Projects.\
+✉️ &nbsp;How to reach me: email: sultanulislamovi@gmail.com .
+<!--📄 &nbsp;Check out my portfolio website at -->
 
-<!--- [![CF](https://cp-logo.vercel.app/codeforces/AhnafShahrearKhan?logo=true)](https://codeforces.com/profile/AhnafShahrearKhan) --->
+ <img align="right" alt="GIF" src="https://github.com/sultanul-ovi/sultanul-ovi/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<!--- Skills Section Starts -->
+### Languages
 
-### 🔥 What I code with
-<div align="left"> 
-    <img src="./images/cplusplus.svg" width="42"/> &thinsp;
-    <img src="./images/java.svg" width="48"/> &thinsp;
-    <img src="./images/spring.svg" width="42"/> &thinsp;
-    <img src="./images/hibernate.svg" width="44"/> &thinsp;
-    <img src="./images/git.svg" width="46"/> &thinsp;
-    <img src="./images/intellij.svg" width="46"/> &thinsp;
-    <img src="./images/postman.svg" width="44"/> &thinsp;
-</div> <br/>
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### 🛠 Tech I’ve used before
-<div align="left"> 
-    <img src="./images/c.png" width="45"/> &nbsp; 
-    <img src="./images/python.png" width="45"/> &nbsp; 
-    <img src="./images/mysql.png" width="70"/> &nbsp; 
-    <img src="./images/html.png" width="40"/> &nbsp; 
-    <img src="./images/css.png" width="40"/> &nbsp; 
-    <img src="./images/php.png" width="70"/> &nbsp;
-    <img src="./images/laravel.png" width="45"/> &nbsp;
-    <img src="./images/tensorflow.png" width="45"/> &nbsp;
-    <img src="./images/matlab.png" width="45"/> &nbsp;
-    <img src="./images/flutter.png" width="40"/> &nbsp;
-    <img src="./images/android-studio.png" width="45"/> &nbsp;
-    <img src="./images/ai.png" width="45"/> &nbsp; 
-</div> <br/>
+### Technologies
 
-<!--- Skills Section Ends -->
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-<br/>  
+### My Projects
 
-### 📎 Let's get connected...
-<div align="left"> 
-    <a href="https://www.facebook.com/"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg' height="45"></a> &nbsp;
-    <a href="https://linkedin.com/in/jamal-hossainai" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' height="45"></a> &nbsp;
-</div> 
-
-<br/>
-<br/>
+[![](https://img.shields.io/badge/-🧬%20Face%20Map-000)](https://github.com/sultanul-ovi/Gender-Classification-Application-using-Machine-Learning)
 
 
-<p align="center" style="display: flex; justify-content: center; align-items: baseline;">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ahnafshahrear&show_icons=true&count_private=true&hide_border=true&border_radius=16&title_color=000000&icon_color=000000&text_color=000000&bg_color=EBEBEB" width="49%" alt="@ahnafshahrear's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahnafshahrear&theme=graywhite&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&card_width=535&card_height=210&background=EBEBEB&dates=000000&ring=000000&currStreakLabel=000000&fire=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000" width="49%" alt="@ahnafshahrear's GitHub Streak"/>
-</p>
-<br/>
+### ⏳ Chronicles of my week as a digital mage
+<!--START_SECTION:waka-->
+
+```txt
+Python            22 hrs 10 mins ████████████████░░░░  69.69 %  // Weaving Pythonic spells with serpentine agility.
+Cyber Security    5 hrs 30 mins  ████░░░░░░░░░░░░░░░░  17.31 %  // Casting protective wards in the realm of cybersecurity.
+JavaScript        2 hrs 15 mins  ██░░░░░░░░░░░░░░░░░░  07.09 %  // Summoning asynchronous incantations in JavaScript.
+Machine Learning  2 hrs 5 mins   ██░░░░░░░░░░░░░░░░░░  06.59 %  // Empowering neural networks with arcane ML algorithms.
+```
+
+
+<div align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=sultanul_ovi&theme=dark&border=border&animated=true" alt="LeetCode Badges" />
+</div>
+
+<!---
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
+[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
+[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
+[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
+[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
 
 
 
+<!--END_SECTION:waka-->
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
+<a href="https://github.com/sultanul-ovi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sultanul-ovi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sultanul-ovi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
-<!-- ![](https://leetcard.jacoblin.cool/ahnafshahrear?ext=heatmap)
