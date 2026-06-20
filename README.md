@@ -11,7 +11,7 @@
 ✉️ &nbsp;How to reach me: email: jamal37.ru.cse@gmail.com
 <!--📄 &nbsp;Check out my portfolio website at -->
 
- <img align="right" alt="GIF" src="https://github.com/sultanul-ovi/sultanul-ovi/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="[https://github.com/sultanul-ovi/sultanul-ovi/blob/master/code.gif?raw=true" width="500" height="320](https://github.com/jamal-hossain37/jamal-hossain37/blob/main/code.gif)" />
 
 ### Languages
 
