@@ -32,6 +32,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FF2D20)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)
 
 ### My Projects
 
