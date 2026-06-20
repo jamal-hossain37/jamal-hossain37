@@ -51,7 +51,7 @@ Machine Learning  2 hrs 5 mins   ██░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/sultanul-ovi">
+<a href="https://github.com/jamal-hossain37">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamal-hossain37&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamal-hossain37&layout=compact&langs_count=8&theme=algolia"/>
 </a>
