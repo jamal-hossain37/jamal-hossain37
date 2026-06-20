@@ -14,17 +14,16 @@
 <img align="right" alt="GIF" src="https://github.com/jamal-hossain37/jamal-hossain37/raw/main/code.gif" width="500" height="320" />
 
 ### Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C%23](https://img.shields.io/badge/-C%23-000?&logo=C%23&logoColor=239120)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?logo=Python)
+![C](https://img.shields.io/badge/-C-000?logo=C)
+![C++](https://img.shields.io/badge/-C++-000?logo=C%2B%2B)
+![Java](https://img.shields.io/badge/-Java-000?logo=Java&logoColor=007396)
+![CSharp](https://img.shields.io/badge/-C%23-000?logo=c-sharp&logoColor=239120)
+![PHP](https://img.shields.io/badge/-PHP-000?logo=PHP&logoColor=777BB4)
+![Dart](https://img.shields.io/badge/-Dart-000?logo=Dart&logoColor=0175C2)
+![SQL](https://img.shields.io/badge/-SQL-000?logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript)
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
