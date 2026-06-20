@@ -8,7 +8,7 @@
 👀 &nbsp;I’m interested in Machine learning, Cyber Security, and Web Development. \
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Cloud Architecture.\
 💬 &nbsp;I'm looking to collaborate on AIML Research Projects.\
-✉️ &nbsp;How to reach me: email: jamal37.ru.cse@gmail.com
+✉️ &nbsp;How to reach me: email: jamal37.ru.cse@gmail.com .
 <!--📄 &nbsp;Check out my portfolio website at -->
 
 <img align="right" alt="GIF" src="https://github.com/jamal-hossain37/jamal-hossain37/raw/main/code.gif" width="500" height="320" />
@@ -34,7 +34,7 @@
 
 ### My Projects
 
-[![](https://img.shields.io/badge/-📅%20Leave%20Management-000)](https://github.com/jamal-hossain37/Software_Engineering)
+[![](https://img.shields.io/badge/Leave%20Management-000)](https://github.com/jamal-hossain37/Software_Engineering)
 
 
 ### ⏳ Chronicles of my week as a digital mage
