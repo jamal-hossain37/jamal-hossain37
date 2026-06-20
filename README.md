@@ -5,11 +5,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I’m currently doing my MS in Computer Science at George Mason University. \
 👀 &nbsp;I’m interested in Machine learning, Cyber Security, and Web Development. \
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Cloud Architecture.\
 💬 &nbsp;I'm looking to collaborate on AIML Research Projects.\
-✉️ &nbsp;How to reach me: email: sultanulislamovi@gmail.com .
+✉️ &nbsp;How to reach me: email: jamal37.ru.cse@gmail.com
 <!--📄 &nbsp;Check out my portfolio website at -->
 
  <img align="right" alt="GIF" src="https://github.com/sultanul-ovi/sultanul-ovi/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -49,25 +48,11 @@ Machine Learning  2 hrs 5 mins   ██░░░░░░░░░░░░░�
 ```
 
 
-<div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=sultanul_ovi&theme=dark&border=border&animated=true" alt="LeetCode Badges" />
-</div>
-
-<!---
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
-
-
-
 <!--END_SECTION:waka-->
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/sultanul-ovi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sultanul-ovi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sultanul-ovi&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamal-hossain37&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamal-hossain37&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
